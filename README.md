@@ -1,19 +1,19 @@
-##Basic Swift Example with VIPER Architecture
+## Basic Swift Example with VIPER Architecture
 
 iOS App developed in XCode 9, with Swift 4.0. The app is a easy way to understand and practice VIPER Archicture in Swift. 
 
-##Requirements
+## Requirements
 
 - iOS 11.0+ 
 - Xcode 9.0+
 - Swift 4.0+
 
-##Contributing
+## Contributing
 
 If you spot an error / typo / dead link / something missing, please file an issue.
 Pull requests are welcome ;-)
 
-##LICENSE
+## LICENSE
 
 
 MIT - Licence
